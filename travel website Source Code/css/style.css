@@ -29,6 +29,7 @@ html{
 
 html::-webkit-scrollbar{
    width: 1rem;
+   /* This is the comments */
 }
 
 html::-webkit-scrollbar-track{
